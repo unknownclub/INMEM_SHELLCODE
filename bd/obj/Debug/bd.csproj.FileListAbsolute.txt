@@ -1,0 +1,6 @@
+C:\Users\driller\source\repos\bd\bd\bin\Debug\bd.exe
+C:\Users\driller\source\repos\bd\bd\bin\Debug\bd.pdb
+C:\Users\driller\source\repos\bd\bd\obj\Debug\bd.csprojAssemblyReference.cache
+C:\Users\driller\source\repos\bd\bd\obj\Debug\bd.csproj.CoreCompileInputs.cache
+C:\Users\driller\source\repos\bd\bd\obj\Debug\bd.exe
+C:\Users\driller\source\repos\bd\bd\obj\Debug\bd.pdb
